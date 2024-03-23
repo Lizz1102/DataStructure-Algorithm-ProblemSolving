@@ -36,3 +36,6 @@ $RECYCLE.BIN/
 
 # Uncomment if needed: Windows shortcuts
 #*.lnk
+
+# Others 
+**/GlobalUsings.cs

@@ -5,6 +5,7 @@ namespace NeetCode150Tests
     public class MaximumSubarrayTests
     {
         private MaximumSubarray maximumSubarray = new MaximumSubarray();
+
         [Fact]
         public void Test_Example1_PositiveAndNegativeNumbers()
         {
